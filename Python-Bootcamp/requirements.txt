@@ -1,5 +1,5 @@
 ipykernel
-# numpy
+numpy
 # pandas
 # matplotlib
 # seaborn
