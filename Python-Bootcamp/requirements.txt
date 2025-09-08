@@ -5,5 +5,5 @@ numpy
 # seaborn
 # flask
 # memory_profiler
-# streamlit
-# scikit-learn
+streamlit
+scikit-learn
